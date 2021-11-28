@@ -56,3 +56,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Use the following plug-ins
+gems:
+  - jekyll-redirect-from
+  
