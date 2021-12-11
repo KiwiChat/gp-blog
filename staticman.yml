@@ -39,7 +39,7 @@ comments:
   moderation: false
 
   # When allowedOrigins is defined, only requests sent from one of the listed domains will be accepted.
-  allowedOrigins: ["localhost", "kiwichat.github.io"]
+  allowedOrigins: ["localhost", "staticman.kiwichat.ml", "kiwichat.github.io"]
 
   # (*) REQUIRED
   #
